@@ -264,6 +264,7 @@ class m190809_145136_create_table_country extends Migration {
         $this->delete('country');
         $this->dropTable('country');
     }
+    
 }
 
 

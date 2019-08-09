@@ -33,4 +33,5 @@ class m190809_150303_create_table_currency extends Migration {
         $this->delete('currency');
         $this->dropTable('currency');
     }
+    
 }

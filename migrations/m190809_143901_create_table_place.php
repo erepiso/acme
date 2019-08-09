@@ -23,4 +23,5 @@ class m190809_143901_create_table_place extends Migration {
       {
       }
      */
+    
 }

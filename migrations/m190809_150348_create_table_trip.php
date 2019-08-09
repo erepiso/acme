@@ -50,4 +50,5 @@ class m190809_150348_create_table_trip extends Migration {
       {
       }
      */
+    
 }

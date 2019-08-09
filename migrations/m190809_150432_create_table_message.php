@@ -39,4 +39,5 @@ class m190809_150432_create_table_message extends Migration {
       {
       }
      */
+    
 }

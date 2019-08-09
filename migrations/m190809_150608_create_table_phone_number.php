@@ -33,4 +33,5 @@ class m190809_150608_create_table_phone_number extends Migration {
       {
       }
      */
+    
 }

@@ -27,4 +27,5 @@ class m190809_150100_create_table_user extends Migration {
       {
       }
      */
+    
 }

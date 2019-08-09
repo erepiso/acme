@@ -28,4 +28,5 @@ class m190809_144542_create_table_place_lang extends Migration {
       {
       }
      */
+    
 }
